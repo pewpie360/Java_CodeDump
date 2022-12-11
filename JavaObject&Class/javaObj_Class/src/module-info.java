@@ -1,0 +1,2 @@
+module javaObj_Class {
+}
